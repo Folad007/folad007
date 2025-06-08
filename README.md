@@ -1,5 +1,9 @@
-## Hi there 👋
+## Welcome👋
+This is **Folad**, a CS Major student and an aspiring CyberSecurity Specialist.
 
+I am currently learning Python along side my Cybersecurity journey.
+
+I am open to collaborate on coding projects. 🤝
 <!--
 **Folad007/folad007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
